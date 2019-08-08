@@ -1,4 +1,4 @@
-# todo app
+# Todo list app
 Sample todo vueJS app
 
 ## Source
